@@ -1,0 +1,20 @@
+File: keys.txt
+Size (bytes): 23
+Last Modified: 2025-09-29 11:18:53.352209283 +0200
+Permissions: 644
+------------------------
+File: logs.txt
+Size (bytes): 23
+Last Modified: 2025-09-29 11:18:53.363009283 +0200
+Permissions: 644
+------------------------
+File: secrets.txt
+Size (bytes): 26
+Last Modified: 2025-09-29 11:18:53.352209283 +0200
+Permissions: 644
+------------------------
+File: vault_report.txt
+Size (bytes): 378
+Last Modified: 2025-09-29 11:24:59.870928087 +0200
+Permissions: 644
+------------------------
