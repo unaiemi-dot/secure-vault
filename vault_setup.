@@ -1,0 +1,4 @@
+nano vault_setup.sh       
+nano vault_permissions.sh 
+nano vault_ops.sh          
+nano vault_monitor.sh
